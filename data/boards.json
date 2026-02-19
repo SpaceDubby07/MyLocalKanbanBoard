@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "f93d5773-a6f0-4608-a5d6-bb646c0d638d",
+    "name": "Board Features",
+    "columns": {
+      "today": [],
+      "thisWeek": [],
+      "future": [],
+      "completed": []
+    }
+  },
+  {
+    "id": "3b165701-0588-48db-8102-2d7edaa57260",
+    "name": "Palline Memories",
+    "columns": {
+      "today": [],
+      "thisWeek": [],
+      "future": [],
+      "completed": []
+    }
+  }
+]
